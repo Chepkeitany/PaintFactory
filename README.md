@@ -66,6 +66,7 @@ Input
 Output
 
 Case #1: 1 0 0 0 0
+
 Case #2: IMPOSSIBLE
 
 In the first case, you must make color #1 matte, to satisfy the first customer. Every other paint type
